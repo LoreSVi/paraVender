@@ -1,0 +1,12 @@
+.productos h1{
+    text-align: center;
+}
+
+h1{
+    background-color: rgb(180, 220, 243);
+    margin-bottom: 2.5px;
+}
+
+footer{
+    background-color: rgb(180, 220, 243);
+}
